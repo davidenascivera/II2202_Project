@@ -63,20 +63,6 @@ For APF simulation:
 python src/APF.py
 ```
 
-This will run the simulation using the PID controller in a dynamic debris environment.
-
-## Status
-
-The project is still **under development**, and new features, analysis, and improvements will be added over time. Currently, we are in the process of implementing the MPC and PID algorithms and testing their performance in simulated space environments. Check back regularly for updates.
-
-## Future Updates
-
-As this project is part of an ongoing course, this repository will be regularly updated with:
-
-- Implemented control algorithms
-- Simulation results and comparisons
-- Analysis and discussion of findings
-- Final research paper and presentation materials
 
 ## Contributors
 
