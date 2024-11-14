@@ -55,12 +55,12 @@ The primary scripts to run the simulations are located in the `/src` directory. 
 
 For MPC simulation:
 ```bash
-python src/MPC_final.py
+python src/MPC.py
 ```
 
 For APF simulation:
 ```bash
-python src/APF_3.py
+python src/APF.py
 ```
 
 This will run the simulation using the PID controller in a dynamic debris environment.
