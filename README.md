@@ -35,7 +35,7 @@ This project is currently in development. We are actively analyzing the effectiv
 
 ```bash
 git clone https://github.com/davidenascivera/II2202_Project.git
-
+```
 
 2. Navigate into the project directory:
 
