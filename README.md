@@ -14,7 +14,7 @@ This project is currently in development. We are actively analyzing the effectiv
 2. Integrate a potential field approach for real-time trajectory generation.
 3. Evaluate the performance of these control strategies in dynamic space environments.
 4. Provide insights into the most effective control methods for space debris removal operations.
-   
+5. 
 ## Repository Structure
 
 - `/src`: Source code for MPC and PID controllers, and Artificial Potential Field (APF) implementations
