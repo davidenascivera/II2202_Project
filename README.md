@@ -7,10 +7,10 @@ This repository contains the ongoing research project for the Scientific Writing
 ## GIF Comparisons
 
 ### Artificial Potential Field (APF) Control
-![APF Simulation](GIF/gif_apf.gif)
+![APF Simulation](data/GIF/gif_apf.gif)
 
 ### Model Predictive Control (MPC)
-![MPC Simulation](GIF/gif_mpc.gif)
+![MPC Simulation](data/GIF/gif_mpc.gif)
 
 ## Current Status
 
