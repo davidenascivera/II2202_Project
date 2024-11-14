@@ -4,6 +4,14 @@
 
 This repository contains the ongoing research project for the Scientific Writing and Methodology course. The project focuses on comparing the performance of Model Predictive Control (MPC) and PID controllers combined with a potential field approach for real-time trajectory generation in space debris removal scenarios.
 
+## GIF Comparisons
+
+### Artificial Potential Field (APF) Control
+![APF Simulation](GIF/gif_apf.gif)
+
+### Model Predictive Control (MPC)
+![MPC Simulation](GIF/gif_mpc.gif)
+
 ## Current Status
 
 This project is currently in development. We are actively analyzing the effectiveness of MPC and PID control strategies in handling dynamic environments typical of space debris removal operations.
@@ -14,7 +22,7 @@ This project is currently in development. We are actively analyzing the effectiv
 2. Integrate a potential field approach for real-time trajectory generation.
 3. Evaluate the performance of these control strategies in dynamic space environments.
 4. Provide insights into the most effective control methods for space debris removal operations.
-5. 
+
 ## Repository Structure
 
 - `/src`: Source code for MPC and PID controllers, and Artificial Potential Field (APF) implementations
@@ -27,7 +35,7 @@ This project is currently in development. We are actively analyzing the effectiv
 
 ```bash
 git clone https://github.com/davidenascivera/II2202_Project.git
-```
+
 
 2. Navigate into the project directory:
 

@@ -1,0 +1,2 @@
+Map number,Total Path Length,Final Distance to Target,Minimum Distance to Obstacles,Total Control Effort,Average Computation Time per Iteration,Total Number of Iterations,Total Number of Function Evaluations,L2 Norm of Control Input Changes,Success
+10,7.981424012931183,0.07351813949690603,0.2027617426537056,91.32650871156149,0.17626892357337764,82,26415,0.4168546225577154,True

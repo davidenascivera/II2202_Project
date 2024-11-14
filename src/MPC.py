@@ -4,7 +4,7 @@ from scipy.optimize import minimize
 import time
 import csv
 import os
-randSeed = 14
+randSeed = 10
 
 
 

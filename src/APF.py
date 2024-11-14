@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 from mpl_toolkits.mplot3d import Axes3D  # Import for 3D plotting
-randSeed=2
+randSeed=10
 threshold_distance = 0.15
 
 # Define the unicycle model dynamics
