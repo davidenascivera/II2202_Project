@@ -6,11 +6,19 @@ This repository contains the ongoing research project for the Scientific Writing
 
 ## GIF Comparisons
 
-### Artificial Potential Field (APF) Control
-![APF Simulation](data/images/GIF/gif_apf.gif)
+### Comparison of Motion Planning Methods
 
-### Model Predictive Control (MPC)
-![MPC Simulation](data/images/GIF/git_mpc.gif)
+<table>
+  <tr>
+    <td><strong>Artificial Potential Field (APF) Control</strong></td>
+    <td><strong>Model Predictive Control (MPC)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="data/images/GIF/gif_apf.gif" alt="APF Simulation"></td>
+    <td><img src="data/images/GIF/git_mpc.gif" alt="MPC Simulation"></td>
+  </tr>
+</table>
+
 
 ## Current Status
 
