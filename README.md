@@ -10,7 +10,7 @@ This repository contains the ongoing research project for the Scientific Writing
 ![APF Simulation](data/images/GIF/gif_apf.gif)
 
 ### Model Predictive Control (MPC)
-![MPC Simulation](data/images/GIF/gif_mpc.gif)
+![MPC Simulation](data/images/GIF/git_mpc.gif)
 
 ## Current Status
 
